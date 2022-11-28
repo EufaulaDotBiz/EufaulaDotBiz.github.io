@@ -2,7 +2,10 @@
 layout: home
 ---
 
+- [🚲 bike shop](/bike)
+- [🍻 brewing](/beer)
 - [🧀 cheese club](/cheese)
-- [🧑‍🌾 compost collective](/compost)
-- [🍕 pizza co-op](/pizza)
 - [🥗 community gardens](/garden)
+- [🧑‍🌾 compost collective](/compost)
+- [🥡 food rescue](/food-rescue)
+
