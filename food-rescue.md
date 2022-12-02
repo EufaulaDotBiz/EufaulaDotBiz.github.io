@@ -7,6 +7,6 @@ Like everywhere else in the United States, Eufaula throws away lots of perfectly
 
 Meanwhile, about [20% of Alabama residents are hungry](https://www.alabamapublichealth.gov/npa/food-access.html).
 
-If we can start connecting the businesses that throw away food with distribution centers that feed people, we can reduce wasted and hunger.
+If we can start connecting the businesses that throw away food with distribution centers that feed people, we can reduce waste and hunger.
 
 Wanna help? Please [get in touch with Brian](https://briandavidhall.com/contact/).
