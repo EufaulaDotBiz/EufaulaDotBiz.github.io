@@ -14,3 +14,11 @@ Add this calendar to your [Google Calendar](https://calendar.google.com/calendar
 Add an event here:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shroKftCLGTJHDsa5?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+---
+
+A few notes:
+
+- This calendar is for secular events within 30 miles of Eufaula
+- We strive for total accuracy, but we might make a mistake (or an event might change). Please contact event organizers for the most up-to-date information
+- If you have any questions or complaints, just reach out to [Brian](https://briandavidhall.com/contact/)
