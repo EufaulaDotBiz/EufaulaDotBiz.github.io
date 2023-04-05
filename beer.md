@@ -24,5 +24,6 @@ Here are a few possibilities:
 - Host events to bring homebrewers together and teach skills to new brewers
 - Facilitate serving of local brews at local events
 - Open a brew shop, or a brewery
+- Form a consumer co-op with a nearby brewery. ([Here](https://fairstate.coop/) is an example)
 
 If any of the above sounds interesting to you, please [get in touch with Brian](https://briandavidhall.com/contact/).
